@@ -1,0 +1,27 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files
+data/
+*.csv
+*.zip
+
+# SSH keys & sensitive info
+id_ssh_key
+id_ssh_key.pub
+*.pem
+*.key
+
+# Logs
+*.log
